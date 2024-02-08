@@ -1,10 +1,7 @@
 import * as THREE from 'three';
 import './style.css'
-
-// @ts-ignore
-import {PointerLockControls} from "three/examples/jsm/controls/PointerLockControls";
+import {PointerLockControls} from "three/examples/jsm/controls/PointerLockControls.js";
 import {Water} from 'three/addons/objects/Water2.js';
-
 import imageTexture from '/assets/image-texture.jpg';
 import videoTexture from '/assets/video-texture.mp4';
 import wallTextureImage from '/assets/wall-texture.jpg';
