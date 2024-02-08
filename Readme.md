@@ -1,4 +1,6 @@
 
+Demo : [https://ctruh-rohan-assignment.netlify.app/]( https://ctruh-rohan-assignment.netlify.app/)
+
 This is an assignment project for Ctruh for Three JS Developer position.
 
 The project is a simple 3D model viewer. The application is built using Three JS + TypeScript + Vite.
